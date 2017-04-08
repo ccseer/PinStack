@@ -1,0 +1,14 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>Seer Update</title>
+		<link>http://1218.io/app_ps/updates.xml</link>
+		<description>PinStack</description>
+		<language>en</language>
+		<item>
+			<title>Version 1.0.0</title>
+			<sparkle:releaseNotesLink>http://1218.io/app_ps/last-relnotes.html</sparkle:releaseNotesLink>
+			<pubDate>Sat, 2016/12/16 12:11:12 +0800</pubDate>
+			<enclosure url="https://bitbucket.org/coooorey/seer-download/downloads/Seer-1.3.0.exe" sparkle:version="1.0.0" type="application/octet-stream"/>
+		</item>
+	</channel>
+</rss>

@@ -15,6 +15,10 @@
         <source>Designer</source>
         <translation>设计师</translation>
     </message>
+    <message>
+        <source>Contributor</source>
+        <translation>贡献者</translation>
+    </message>
 </context>
 <context>
     <name>Connection</name>
@@ -68,7 +72,7 @@
     </message>
     <message>
         <source>Connect failed</source>
-        <translation>连接失败</translation>
+        <translation type="vanished">连接失败</translation>
     </message>
     <message>
         <source>Connecting</source>
@@ -100,19 +104,19 @@
     </message>
     <message>
         <source>The server can only support two clients.</source>
-        <translation type="vanished">服务器最多只能连接两个远程设备。</translation>
+        <translation>服务器最多只能连接两个远程设备。</translation>
     </message>
     <message>
         <source>File not found</source>
-        <translation type="vanished">文件未找到</translation>
+        <translation>文件未找到</translation>
     </message>
     <message>
         <source>Can&apos;t transfer a folder.</source>
-        <translation type="vanished">不能传输文件夹。</translation>
+        <translation>不能传输文件夹。</translation>
     </message>
     <message>
         <source>Unknow error.</source>
-        <translation type="vanished">未知错误。</translation>
+        <translation>未知错误。</translation>
     </message>
     <message>
         <source>Failed to accept remote connection.</source>
@@ -133,6 +137,10 @@
     <message>
         <source>Password</source>
         <translation>密码</translation>
+    </message>
+    <message>
+        <source>Connection canceled.</source>
+        <translation>连接已取消。</translation>
     </message>
 </context>
 <context>
@@ -172,6 +180,14 @@
     <message>
         <source>Rotate</source>
         <translation>旋转</translation>
+    </message>
+    <message>
+        <source>Open with seer</source>
+        <translation>使用 Seer 打开</translation>
+    </message>
+    <message>
+        <source>Open with Quicklook</source>
+        <translation>使用 QuickLook 打开</translation>
     </message>
 </context>
 <context>
@@ -295,6 +311,45 @@
     <message>
         <source>Modifier key required.</source>
         <translation>需要修饰键。</translation>
+    </message>
+</context>
+<context>
+    <name>KeymapDlg</name>
+    <message>
+        <source>Switch view:</source>
+        <translation type="obsolete">切换视图：</translation>
+    </message>
+    <message>
+        <source>Pin:</source>
+        <translation type="obsolete">Pin：</translation>
+    </message>
+    <message>
+        <source>Activate item:</source>
+        <translation type="obsolete">激活列表项：</translation>
+    </message>
+    <message>
+        <source>Delete:</source>
+        <translation type="obsolete">删除：</translation>
+    </message>
+    <message>
+        <source>Clear history:</source>
+        <translation type="obsolete">清空历史数据：</translation>
+    </message>
+    <message>
+        <source>Search:</source>
+        <translation type="obsolete">搜索：</translation>
+    </message>
+    <message>
+        <source>Connection:</source>
+        <translation type="obsolete">连接：</translation>
+    </message>
+    <message>
+        <source>Close:</source>
+        <translation type="obsolete">关闭：</translation>
+    </message>
+    <message>
+        <source>Info:</source>
+        <translation type="obsolete">详情：</translation>
     </message>
 </context>
 <context>
@@ -592,6 +647,10 @@
     <message>
         <source>Info:</source>
         <translation>详情：</translation>
+    </message>
+    <message>
+        <source>Show quick pin</source>
+        <translation>显示快速P in 窗口</translation>
     </message>
 </context>
 <context>

@@ -92,7 +92,7 @@
     </message>
     <message>
         <source>You can only have two remote connections at most.</source>
-        <translation>最多只能连接两个远程设备。</translation>
+        <translation type="vanished">最多只能连接两个远程设备。</translation>
     </message>
     <message>
         <source>Get local IP address failed.</source>
@@ -141,6 +141,10 @@
     <message>
         <source>Connection canceled.</source>
         <translation>连接已取消。</translation>
+    </message>
+    <message>
+        <source>You may have two remote connections at most.</source>
+        <translation>最多只能连接两个远程设备。</translation>
     </message>
 </context>
 <context>
@@ -300,6 +304,10 @@
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Search pinned</source>
+        <translation>查找 pinned</translation>
     </message>
 </context>
 <context>
@@ -461,6 +469,42 @@
         <source>Quit</source>
         <translation>退出</translation>
     </message>
+    <message>
+        <source>The list it empty.</source>
+        <translation type="vanished">列表为空。</translation>
+    </message>
+    <message>
+        <source>You&apos;re deleting all items.</source>
+        <translation>正在删除所有内容。</translation>
+    </message>
+    <message>
+        <source>Search pinned</source>
+        <translation>查找 pinned</translation>
+    </message>
+    <message>
+        <source>Count:</source>
+        <translation>总共:</translation>
+    </message>
+    <message>
+        <source>Text:</source>
+        <translation>文字:</translation>
+    </message>
+    <message>
+        <source>Image:</source>
+        <translation>图片:</translation>
+    </message>
+    <message>
+        <source>Others:</source>
+        <translation>其他:</translation>
+    </message>
+    <message>
+        <source>Cannot delete remote data.</source>
+        <translation>其他客户端数据为“只读”。</translation>
+    </message>
+    <message>
+        <source>This list is empty.</source>
+        <translation>列表为空。</translation>
+    </message>
 </context>
 <context>
     <name>MainViewList</name>
@@ -547,11 +591,11 @@
     </message>
     <message>
         <source>Check updates failed</source>
-        <translation>检查更新失败</translation>
+        <translation type="vanished">检查更新失败</translation>
     </message>
     <message>
         <source>Latest version is installed</source>
-        <translation>当前版本已是最新</translation>
+        <translation type="vanished">当前版本已是最新</translation>
     </message>
 </context>
 <context>
@@ -652,6 +696,21 @@
         <source>Show quick pin</source>
         <translation>显示快速P in 窗口</translation>
     </message>
+    <message>
+        <source>Switch item:</source>
+        <translation>切换视图：</translation>
+    </message>
+    <message>
+        <source>Settings:</source>
+        <translation>设置：</translation>
+    </message>
+</context>
+<context>
+    <name>UpdatesFoundDLg</name>
+    <message>
+        <source>Check updates failed</source>
+        <translation type="obsolete">检查更新失败</translation>
+    </message>
 </context>
 <context>
     <name>UpdatesFoundDlg</name>
@@ -666,6 +725,14 @@
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Check updates failed</source>
+        <translation>检查更新失败</translation>
+    </message>
+    <message>
+        <source>Latest version is installed</source>
+        <translation>当前版本已是最新</translation>
     </message>
 </context>
 <context>
@@ -768,6 +835,14 @@
     <message>
         <source>Cancel</source>
         <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>Check updates failed</source>
+        <translation type="vanished">检查更新失败</translation>
+    </message>
+    <message>
+        <source>Latest version is installed</source>
+        <translation type="vanished">当前版本已是最新</translation>
     </message>
 </context>
 </TS>

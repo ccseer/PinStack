@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Can&apos;t transfer a folder.</source>
-        <translation>不能传输文件夹。</translation>
+        <translation>无法传输文件夹。</translation>
     </message>
     <message>
         <source>Unknow error.</source>
@@ -193,6 +193,10 @@
         <source>Open with Quicklook</source>
         <translation>使用 QuickLook 打开</translation>
     </message>
+    <message>
+        <source>Join</source>
+        <translation>合并</translation>
+    </message>
 </context>
 <context>
     <name>DetailsView</name>
@@ -255,11 +259,11 @@
     </message>
     <message>
         <source>Show clipboard</source>
-        <translation>显示剪贴板窗口</translation>
+        <translation type="vanished">显示剪贴板窗口</translation>
     </message>
     <message>
         <source>Show quick paste</source>
-        <translation>显示快速粘贴窗口</translation>
+        <translation type="vanished">显示快速粘贴窗口</translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -291,7 +295,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation>查找</translation>
+        <translation type="vanished">查找</translation>
     </message>
     <message>
         <source>Update language failed</source>
@@ -307,7 +311,11 @@
     </message>
     <message>
         <source>Search pinned</source>
-        <translation>查找 pinned</translation>
+        <translation type="vanished">查找 pinned</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>显示</translation>
     </message>
 </context>
 <context>
@@ -392,7 +400,7 @@
     </message>
     <message>
         <source>License Required</source>
-        <translation>缺少授权</translation>
+        <translation type="vanished">缺少授权</translation>
     </message>
     <message>
         <source>Free Trial</source>
@@ -400,11 +408,19 @@
     </message>
     <message>
         <source>You have %1 day free trial.</source>
-        <translation>你有 %1 天免费试用。</translation>
+        <translation type="vanished">你有 %1 天免费试用。</translation>
     </message>
     <message>
         <source>Activate</source>
         <translation>激活</translation>
+    </message>
+    <message>
+        <source>Thanks for trying PinStack</source>
+        <translation>感谢使用 PinStack</translation>
+    </message>
+    <message>
+        <source>PinStack is not licensed.</source>
+        <translation>软件未激活。</translation>
     </message>
 </context>
 <context>
@@ -555,7 +571,7 @@
     <name>SettingsWnd4General</name>
     <message>
         <source>Theme</source>
-        <translation>主题</translation>
+        <translation type="vanished">主题</translation>
     </message>
     <message>
         <source>Light</source>
@@ -597,6 +613,10 @@
         <source>Latest version is installed</source>
         <translation type="vanished">当前版本已是最新</translation>
     </message>
+    <message>
+        <source>Theme:</source>
+        <translation>主题：</translation>
+    </message>
 </context>
 <context>
     <name>SettingsWnd4Stack</name>
@@ -606,19 +626,19 @@
     </message>
     <message>
         <source>Max item count</source>
-        <translation>最大列表项数量</translation>
+        <translation type="vanished">最大列表项数量</translation>
     </message>
     <message>
         <source>Show clipboard</source>
-        <translation>显示剪贴板窗口</translation>
+        <translation type="vanished">显示剪贴板</translation>
     </message>
     <message>
         <source>Show quick paste</source>
-        <translation>显示快速粘贴窗口</translation>
+        <translation type="vanished">显示快速粘贴窗口</translation>
     </message>
     <message>
         <source>Quick paste item</source>
-        <translation>快速粘贴列表项大小</translation>
+        <translation type="vanished">快速粘贴列表项大小</translation>
     </message>
     <message>
         <source>Keyboard</source>
@@ -666,7 +686,7 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation>正常</translation>
+        <translation type="vanished">正常</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -678,15 +698,15 @@
     </message>
     <message>
         <source>Hide quick paste view:</source>
-        <translation>隐藏快速粘贴视图：</translation>
+        <translation type="vanished">隐藏快速粘贴视图：</translation>
     </message>
     <message>
         <source>Item pasted</source>
-        <translation>列表项被粘贴后</translation>
+        <translation type="vanished">列表项被粘贴后</translation>
     </message>
     <message>
         <source>Focus lost</source>
-        <translation>失去焦点后</translation>
+        <translation type="vanished">失去焦点后</translation>
     </message>
     <message>
         <source>Info:</source>
@@ -694,7 +714,7 @@
     </message>
     <message>
         <source>Show quick pin</source>
-        <translation>显示快速P in 窗口</translation>
+        <translation type="vanished">显示快速 Pin 窗口</translation>
     </message>
     <message>
         <source>Switch item:</source>
@@ -703,6 +723,38 @@
     <message>
         <source>Settings:</source>
         <translation>设置：</translation>
+    </message>
+    <message>
+        <source>Locate:</source>
+        <translation>定位：</translation>
+    </message>
+    <message>
+        <source>List item size</source>
+        <translation type="vanished">列表项大小</translation>
+    </message>
+    <message>
+        <source>Show Pin</source>
+        <translation type="vanished">显示 Pin 视图</translation>
+    </message>
+    <message>
+        <source>Max item count:</source>
+        <translation>最大列表项数量：</translation>
+    </message>
+    <message>
+        <source>Show clipboard:</source>
+        <translation>显示剪贴板：</translation>
+    </message>
+    <message>
+        <source>Show Pin:</source>
+        <translation>显示 Pin：</translation>
+    </message>
+    <message>
+        <source>List item size:</source>
+        <translation>列表项大小：</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation>默认</translation>
     </message>
 </context>
 <context>
@@ -728,11 +780,15 @@
     </message>
     <message>
         <source>Check updates failed</source>
-        <translation>检查更新失败</translation>
+        <translation type="vanished">检查更新失败</translation>
     </message>
     <message>
         <source>Latest version is installed</source>
         <translation>当前版本已是最新</translation>
+    </message>
+    <message>
+        <source>Check for updates failed</source>
+        <translation>检查更新失败</translation>
     </message>
 </context>
 <context>
@@ -751,11 +807,11 @@
     </message>
     <message>
         <source>PinStack will monitor all your clipboard data</source>
-        <translation>PinStack 会获取所有的剪贴板数据</translation>
+        <translation type="vanished">PinStack 会获取所有的剪贴板数据</translation>
     </message>
     <message>
         <source>List item can be dragged out to other application</source>
-        <translation>列表项可被拖到其他程序中，图片或者文件被拖到桌面或者文件夹</translation>
+        <translation type="vanished">列表项可被拖到其他程序中，图片或者文件被拖到桌面或者文件夹</translation>
     </message>
     <message>
         <source>Once you pinned a item, it will stay in Pin view</source>
@@ -767,15 +823,15 @@
     </message>
     <message>
         <source>Anything you change in the Preview Panel, e.g. text selection and image rotation, will be saved</source>
-        <translation>你在列表旁的详情面板中做的操作，比如文本选择和图片旋转，会被记录下来</translation>
+        <translation type="vanished">你在列表旁的详情面板中做的操作，比如文本选择和图片旋转，会被记录下来</translation>
     </message>
     <message>
         <source>Quick paste View</source>
-        <translation>快速预览视图</translation>
+        <translation type="vanished">快速预览视图</translation>
     </message>
     <message>
         <source>Quick paste window can be activated by pressing &quot;Ctrl+Alt+V&quot; by default</source>
-        <translation>快速预览窗口默认通过 Ctrl+Alt+V 激活</translation>
+        <translation type="vanished">快速预览窗口默认通过 Ctrl+Alt+V 激活</translation>
     </message>
     <message>
         <source>Pressing &quot;Enter&quot; (or double click) can paste the selected item to the active window</source>
@@ -783,7 +839,7 @@
     </message>
     <message>
         <source>Pressing &quot;Ctrl+F&quot; or &quot;Tab&quot; can switch focus to search input</source>
-        <translation>Ctrl+F 和 Tab 键可在搜索栏和列表项之间切换</translation>
+        <translation type="vanished">Ctrl+F 和 Tab 键可在搜索栏和列表项之间切换</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -791,7 +847,7 @@
     </message>
     <message>
         <source>PinStack can communicate with remote computer</source>
-        <translation>PinStack 可以和其他装有 PinStack 的电脑进行共享数据</translation>
+        <translation type="vanished">PinStack 可以和其他装有 PinStack 的电脑进行共享数据</translation>
     </message>
     <message>
         <source>Local</source>
@@ -803,7 +859,7 @@
     </message>
     <message>
         <source>If your IP address requires a password you will need to enter that as well</source>
-        <translation>如果你设置了密码，你还需要将该密码给远端机器</translation>
+        <translation type="vanished">如果你设置了密码，你还需要将该密码给远端机器</translation>
     </message>
     <message>
         <source>Remote</source>
@@ -819,11 +875,31 @@
     </message>
     <message>
         <source>You can find me in &quot;About&quot; page.</source>
-        <translation>你可以在“关于”页面中找到我的联系方式。</translation>
+        <translation type="vanished">你可以在“关于”页面中找到我的联系方式。</translation>
     </message>
     <message>
         <source>By pressing the &quot;Left&quot;/&quot;Right&quot; arrow keys you can switch between Clipboard and Pin view</source>
         <translation>通过左右方向键切换主视图和 Pin 视图</translation>
+    </message>
+    <message>
+        <source>PinStack will monitor all readable data from your clipboard</source>
+        <translation>PinStack 会获取所有的可读剪贴板数据</translation>
+    </message>
+    <message>
+        <source>List item can be dragged out to another application</source>
+        <translation>列表项可被拖到其他程序中，图片或者文件被拖到桌面或者文件夹</translation>
+    </message>
+    <message>
+        <source>Anything you changed in the Preview Panel, e.g. text selection and image rotation, will be saved</source>
+        <translation>你在列表旁的详情面板中做的操作，比如文本选择和图片旋转，会被记录下来</translation>
+    </message>
+    <message>
+        <source>PinStack can communicate with remote computers</source>
+        <translation>PinStack 可以和其他装有 PinStack 的电脑进行共享数据</translation>
+    </message>
+    <message>
+        <source>Find me in &quot;About&quot; page.</source>
+        <translation>如有疑问，可在“关于”页面中找到联系方式。</translation>
     </message>
 </context>
 <context>

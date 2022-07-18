@@ -699,6 +699,10 @@
         <source>You may only have 9 favorite items.</source>
         <translation>最多只能置顶 9 项。</translation>
     </message>
+    <message>
+        <source>You may only pin %1 items.</source>
+        <translation>最多只能 Pin %1 个。</translation>
+    </message>
 </context>
 <context>
     <name>MainViewList</name>

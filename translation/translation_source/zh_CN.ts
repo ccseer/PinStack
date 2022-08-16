@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Copy as plain text</source>
-        <translation>复制为纯文本</translation>
+        <translation type="vanished">复制为纯文本</translation>
     </message>
     <message>
         <source>Send emial to </source>
@@ -251,11 +251,11 @@
     </message>
     <message>
         <source>Restore to plain text</source>
-        <translation>恢复到纯文本</translation>
+        <translation type="vanished">恢复到纯文本</translation>
     </message>
     <message>
         <source>Convert to rich text</source>
-        <translation>转换为富文本</translation>
+        <translation type="vanished">转换为富文本</translation>
     </message>
     <message>
         <source>Open with browser</source>
@@ -292,6 +292,14 @@
     <message>
         <source>Failed to save file</source>
         <translation>保存文件失败</translation>
+    </message>
+    <message>
+        <source>Remove formatting</source>
+        <translation>清除格式</translation>
+    </message>
+    <message>
+        <source>Format text</source>
+        <translation>格式化文本</translation>
     </message>
 </context>
 <context>
@@ -395,6 +403,10 @@
         <source>Show</source>
         <translation>显示</translation>
     </message>
+    <message>
+        <source>Like PinStack? Please share with your friends.</source>
+        <translation>Like PinStack? Please share with your friends.</translation>
+    </message>
 </context>
 <context>
     <name>KeySequenceEdit</name>
@@ -466,7 +478,7 @@
     </message>
     <message>
         <source>Licensed</source>
-        <translation>已授权</translation>
+        <translation>已激活</translation>
     </message>
     <message>
         <source>Invalid license</source>
@@ -573,7 +585,7 @@
     </message>
     <message>
         <source>You&apos;re deleting a favor item.</source>
-        <translation>你正在删除一个置顶项。</translation>
+        <translation type="vanished">你正在删除一个置顶项。</translation>
     </message>
     <message>
         <source>Clipboard View</source>
@@ -597,7 +609,7 @@
     </message>
     <message>
         <source>You&apos;re deleting all items.</source>
-        <translation>正在删除所有内容。</translation>
+        <translation type="vanished">正在删除所有内容。</translation>
     </message>
     <message>
         <source>Search pinned</source>
@@ -625,7 +637,7 @@
     </message>
     <message>
         <source>This list is empty.</source>
-        <translation>列表为空。</translation>
+        <translation type="vanished">列表为空。</translation>
     </message>
     <message>
         <source>Search Pin</source>
@@ -697,11 +709,27 @@
     </message>
     <message>
         <source>You may only have 9 favorite items.</source>
-        <translation>最多只能置顶 9 项。</translation>
+        <translation type="vanished">最多只能置顶 9 项。</translation>
     </message>
     <message>
         <source>You may only pin %1 items.</source>
         <translation>最多只能 Pin %1 个。</translation>
+    </message>
+    <message>
+        <source>You&apos;re deleting a favored item.</source>
+        <translation>你正在删除一个置顶项。</translation>
+    </message>
+    <message>
+        <source>You&apos;re unpinning a favored item.</source>
+        <translation>你正在删除一个置顶项。</translation>
+    </message>
+    <message>
+        <source>You may only have 9 favored items.</source>
+        <translation>最多只能置顶 9 项。</translation>
+    </message>
+    <message>
+        <source>Favored</source>
+        <translation>置顶</translation>
     </message>
 </context>
 <context>
@@ -860,7 +888,7 @@
     </message>
     <message>
         <source>Delete all</source>
-        <translation>删除全部</translation>
+        <translation type="vanished">删除全部</translation>
     </message>
     <message>
         <source>Search</source>
@@ -901,6 +929,10 @@
     <message>
         <source>Switch item height</source>
         <translation>切换列表项高度</translation>
+    </message>
+    <message>
+        <source>Fn paste</source>
+        <translation>Fn 粘贴</translation>
     </message>
 </context>
 <context>
@@ -1113,6 +1145,34 @@
         <source>Manually close</source>
         <translation>手动关闭</translation>
     </message>
+    <message>
+        <source>items</source>
+        <translation>列表项</translation>
+    </message>
+    <message>
+        <source>Main view</source>
+        <translation type="vanished">主视图</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>清除</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>确认</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Pin view</source>
+        <translation>Pin 视图</translation>
+    </message>
+    <message>
+        <source>Clipboard view</source>
+        <translation>剪贴板视图</translation>
+    </message>
 </context>
 <context>
     <name>UpdateWnd</name>
@@ -1151,6 +1211,10 @@
     <message>
         <source>Software update</source>
         <translation>软件更新</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>退出</translation>
     </message>
 </context>
 <context>

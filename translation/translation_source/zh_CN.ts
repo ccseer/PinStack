@@ -401,7 +401,7 @@
     </message>
     <message>
         <source>Show</source>
-        <translation>显示</translation>
+        <translation type="vanished">显示</translation>
     </message>
     <message>
         <source>Like PinStack? Please share with your friends.</source>
@@ -661,7 +661,7 @@
     </message>
     <message>
         <source>Minimize</source>
-        <translation>最小化</translation>
+        <translation type="vanished">最小化</translation>
     </message>
     <message>
         <source>Register</source>
@@ -685,7 +685,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation type="vanished">清除</translation>
     </message>
     <message>
         <source>Get Seer</source>
@@ -730,6 +730,30 @@
     <message>
         <source>Favored</source>
         <translation>置顶</translation>
+    </message>
+    <message>
+        <source>Paused</source>
+        <translation>已停止</translation>
+    </message>
+    <message>
+        <source>PinStack has paused monitoring the clipboard.</source>
+        <translation type="vanished">已停止同步剪贴板数据。</translation>
+    </message>
+    <message>
+        <source>PinStack has paused monitoring the clipboard</source>
+        <translation>已停止同步剪贴板数据</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文本</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>文件</translation>
     </message>
 </context>
 <context>
@@ -888,7 +912,7 @@
     </message>
     <message>
         <source>Delete all</source>
-        <translation type="vanished">删除全部</translation>
+        <translation>删除全部</translation>
     </message>
     <message>
         <source>Search</source>
@@ -933,6 +957,14 @@
     <message>
         <source>Fn paste</source>
         <translation>Fn 粘贴</translation>
+    </message>
+    <message>
+        <source>Stay on top</source>
+        <translation>置顶</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>停止同步</translation>
     </message>
 </context>
 <context>
@@ -1147,7 +1179,7 @@
     </message>
     <message>
         <source>items</source>
-        <translation>列表项</translation>
+        <translation type="vanished">列表项</translation>
     </message>
     <message>
         <source>Main view</source>
@@ -1155,23 +1187,39 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation type="vanished">清除</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation>确认</translation>
+        <translation type="vanished">确认</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="vanished">取消</translation>
     </message>
     <message>
         <source>Pin view</source>
-        <translation>Pin 视图</translation>
+        <translation type="vanished">Pin 视图</translation>
     </message>
     <message>
         <source>Clipboard view</source>
-        <translation>剪贴板视图</translation>
+        <translation type="vanished">剪贴板视图</translation>
+    </message>
+    <message>
+        <source>Backup</source>
+        <translation>备份</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>导出</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation>导入</translation>
+    </message>
+    <message>
+        <source>Data imported successfully.</source>
+        <translation>导入数据成功。</translation>
     </message>
 </context>
 <context>
@@ -1379,6 +1427,10 @@
     <message>
         <source>Latest version is installed</source>
         <translation type="vanished">当前版本已是最新</translation>
+    </message>
+    <message>
+        <source>Stay on top</source>
+        <translation type="obsolete">置顶</translation>
     </message>
 </context>
 </TS>

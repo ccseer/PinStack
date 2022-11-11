@@ -301,6 +301,10 @@
         <source>Format text</source>
         <translation>格式化文本</translation>
     </message>
+    <message>
+        <source>Extract text</source>
+        <translation>提取文字</translation>
+    </message>
 </context>
 <context>
     <name>FreetrialDlg</name>
@@ -466,7 +470,7 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation>复制</translation>
+        <translation type="vanished">复制</translation>
     </message>
     <message>
         <source>License:</source>
@@ -513,10 +517,6 @@
         <translation type="vanished">软件未激活。</translation>
     </message>
     <message>
-        <source>ID</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Key</source>
         <translation>密钥</translation>
     </message>
@@ -526,7 +526,7 @@
     </message>
     <message>
         <source>Invalid Key</source>
-        <translation>无效密钥</translation>
+        <translation type="vanished">无效密钥</translation>
     </message>
     <message>
         <source>BUY</source>
@@ -539,6 +539,10 @@
     <message>
         <source>Enter...</source>
         <translation>输入...</translation>
+    </message>
+    <message>
+        <source>Activating</source>
+        <translation>正在激活</translation>
     </message>
 </context>
 <context>

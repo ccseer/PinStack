@@ -917,7 +917,7 @@
     <message>
         <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="201"/>
         <source>Reset &amp;&amp; Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>重置 &amp; 重启</translation>
     </message>
     <message>
         <source>Check for updates</source>
@@ -1282,7 +1282,7 @@
     <message>
         <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="95"/>
         <source>Detailed view</source>
-        <translation>详情视图</translation>
+        <translation>预览视图</translation>
     </message>
     <message>
         <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="107"/>

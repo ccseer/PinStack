@@ -4,17 +4,17 @@
 <context>
     <name>About</name>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/About.qml" line="177"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/About.qml" line="180"/>
         <source>Contact</source>
         <translation>给我发送邮件吧</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/About.qml" line="183"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/About.qml" line="186"/>
         <source>Homepage</source>
         <translation>主页</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/About.qml" line="188"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/About.qml" line="191"/>
         <source>Designer</source>
         <translation>设计师</translation>
     </message>
@@ -23,7 +23,7 @@
         <translation type="vanished">贡献者</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/main.qml" line="780"/>
+        <location filename="../../../../PinStack/assets/qml/main.qml" line="745"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
@@ -238,12 +238,17 @@
 <context>
     <name>DetailsViewCtrls</name>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="132"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Url.qml" line="19"/>
         <source>Show in Explorer</source>
         <translation>在资源管理器中显示</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="145"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Url.qml" line="23"/>
+        <source>Failed to reveal in Explorer</source>
+        <translation>在资源管理器中打开</translation>
+    </message>
+    <message>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Url.qml" line="31"/>
         <source>Copy image</source>
         <translation>复制图片</translation>
     </message>
@@ -252,7 +257,7 @@
         <translation type="vanished">复制为纯文本</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="192"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Text.qml" line="43"/>
         <source>Send emial to </source>
         <translation>发送邮件至 </translation>
     </message>
@@ -269,7 +274,7 @@
         <translation type="obsolete">在浏览器中打开</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="273"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Pic.qml" line="32"/>
         <source>Rotate</source>
         <translation>旋转</translation>
     </message>
@@ -278,54 +283,102 @@
         <translation type="obsolete">使用 Seer 打开</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="216"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Text.qml" line="66"/>
         <source>Open in browser</source>
         <translation>在浏览器中打开</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsView4Urls.qml" line="270"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsView4Urls.qml" line="284"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="225"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Text.qml" line="75"/>
         <source>Convert to file path</source>
         <translation>转换为文件</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="237"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Text.qml" line="87"/>
         <source>Convert to color</source>
         <translation>转换为颜色</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="282"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Pic.qml" line="41"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="297"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="136"/>
         <source>Failed to save file</source>
         <translation>保存文件失败</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="177"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Text.qml" line="29"/>
         <source>Remove formatting</source>
         <translation>清除格式</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="137"/>
-        <source>Failed to reveal in Explorer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="201"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Text.qml" line="52"/>
         <source>Format text</source>
         <translation>格式化文本</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrls.qml" line="261"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsViewCtrlsCom4Pic.qml" line="20"/>
         <source>Extract text</source>
         <translation>提取文字</translation>
+    </message>
+</context>
+<context>
+    <name>DetailsViewCtrlsCom4Pic</name>
+    <message>
+        <source>Extract text</source>
+        <translation type="obsolete">提取文字</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="obsolete">旋转</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="obsolete">保存</translation>
+    </message>
+</context>
+<context>
+    <name>DetailsViewCtrlsCom4Text</name>
+    <message>
+        <source>Remove formatting</source>
+        <translation type="obsolete">清除格式</translation>
+    </message>
+    <message>
+        <source>Send emial to </source>
+        <translation type="obsolete">发送邮件至 </translation>
+    </message>
+    <message>
+        <source>Format text</source>
+        <translation type="obsolete">格式化文本</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation type="obsolete">在浏览器中打开</translation>
+    </message>
+    <message>
+        <source>Convert to file path</source>
+        <translation type="obsolete">转换为文件</translation>
+    </message>
+    <message>
+        <source>Convert to color</source>
+        <translation type="obsolete">转换为颜色</translation>
+    </message>
+</context>
+<context>
+    <name>DetailsViewCtrlsCom4Url</name>
+    <message>
+        <source>Show in Explorer</source>
+        <translation type="obsolete">在资源管理器中显示</translation>
+    </message>
+    <message>
+        <source>Copy image</source>
+        <translation type="obsolete">复制图片</translation>
     </message>
 </context>
 <context>
@@ -398,7 +451,7 @@
         <translation type="vanished">关于</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="96"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="99"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="121"/>
         <source>Quit</source>
         <translation>退出</translation>
@@ -416,14 +469,14 @@
         <translation type="vanished">设置语言失败</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/main.qml" line="549"/>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="186"/>
+        <location filename="../../../../PinStack/assets/qml/main.qml" line="509"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="188"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/main.qml" line="554"/>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="199"/>
+        <location filename="../../../../PinStack/assets/qml/main.qml" line="514"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="201"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -436,7 +489,7 @@
         <translation type="vanished">显示</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/src/cmain.cpp" line="276"/>
+        <location filename="../../../../PinStack/src/cmain.cpp" line="314"/>
         <source>Like PinStack? Please share with your friends.</source>
         <translation>Like PinStack? Please share with your friends.</translation>
     </message>
@@ -510,8 +563,12 @@
         <translation type="vanished">输入授权</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="71"/>
-        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="135"/>
+        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="129"/>
+        <source>Buy Now</source>
+        <translation>购买</translation>
+    </message>
+    <message>
+        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="157"/>
         <source>Licensed</source>
         <translation>已激活</translation>
     </message>
@@ -548,7 +605,7 @@
         <translation type="vanished">软件未激活。</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="57"/>
+        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="80"/>
         <source>Key</source>
         <translation>密钥</translation>
     </message>
@@ -561,22 +618,20 @@
         <translation type="vanished">无效密钥</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="111"/>
         <source>BUY</source>
-        <translation>购买</translation>
+        <translation type="vanished">购买</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/main.qml" line="804"/>
+        <location filename="../../../../PinStack/assets/qml/main.qml" line="769"/>
         <source>Register</source>
         <translation>注册</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="65"/>
         <source>Enter...</source>
-        <translation>输入...</translation>
+        <translation type="vanished">输入...</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="83"/>
+        <location filename="../../../../PinStack/modules/license/LicenseWnd.qml" line="99"/>
         <source>Activating</source>
         <translation>正在激活</translation>
     </message>
@@ -584,12 +639,12 @@
 <context>
     <name>MainView</name>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="119"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="122"/>
         <source>Menu</source>
         <translation>菜单</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="47"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="50"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="94"/>
         <source>Settings</source>
         <translation>设置</translation>
@@ -607,29 +662,29 @@
         <translation type="vanished">提交 bug</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="55"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="58"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="96"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/ctrls/AbstractWnd.qml" line="63"/>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="131"/>
+        <location filename="../../../../PinStack/assets/qml/ctrls/AbstractWnd.qml" line="65"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="134"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="257"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="267"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="287"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="297"/>
         <source>Pin</source>
         <translation>Pin</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="380"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="389"/>
         <source>Favor</source>
         <translation>置顶</translation>
     </message>
@@ -648,7 +703,7 @@
         <translation>Pin 视图</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TextFilterBox.qml" line="93"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TextFilterBox.qml" line="91"/>
         <source>Search</source>
         <translation>查找</translation>
     </message>
@@ -693,7 +748,7 @@
         <translation type="vanished">列表为空。</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TextFilterBox.qml" line="108"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TextFilterBox.qml" line="106"/>
         <source>Search Pin</source>
         <translation>查找 Pin</translation>
     </message>
@@ -702,20 +757,20 @@
         <translation type="vanished">粘贴</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="82"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="85"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="109"/>
         <source>Privacy policy</source>
         <translation>隐私政策</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/main.qml" line="627"/>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="39"/>
+        <location filename="../../../../PinStack/assets/qml/main.qml" line="591"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="42"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="88"/>
         <source>Stay on top</source>
         <translation>置顶</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsView4Urls.qml" line="163"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsView4Urls.qml" line="187"/>
         <source>Open</source>
         <translation>打开</translation>
     </message>
@@ -724,13 +779,13 @@
         <translation type="vanished">最小化</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="69"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="72"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="100"/>
         <source>Register</source>
         <translation>注册</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="73"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="76"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="104"/>
         <source>About PinStack</source>
         <translation>关于 PinStack</translation>
@@ -740,13 +795,13 @@
         <translation type="vanished">反馈 bug</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="87"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="90"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="114"/>
         <source>Check for update</source>
         <translation>检查更新</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/details/DetailsView4ColorItem.qml" line="49"/>
+        <location filename="../../../../PinStack/assets/qml/details/DetailsView4ColorItem.qml" line="57"/>
         <source>Copy text</source>
         <translation>复制文字</translation>
     </message>
@@ -755,7 +810,7 @@
         <translation type="vanished">清除</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="91"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="94"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="118"/>
         <source>Get Seer</source>
         <translation>获取 Seer</translation>
@@ -770,13 +825,13 @@
         <translation>内部错误</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="77"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBarBtns.qml" line="80"/>
         <location filename="../../../../PinStack/src/systrayicon.cpp" line="106"/>
         <source>Found a bug?</source>
         <translation>反馈 bug</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="285"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="295"/>
         <source>Unpin</source>
         <translation></translation>
     </message>
@@ -790,12 +845,12 @@
         <translation>最多只能 Pin %1 个。</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/main.qml" line="825"/>
+        <location filename="../../../../PinStack/assets/qml/main.qml" line="790"/>
         <source>You&apos;re deleting a favored item.</source>
         <translation>你正在删除一个置顶项。</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/main.qml" line="875"/>
+        <location filename="../../../../PinStack/assets/qml/main.qml" line="840"/>
         <source>You&apos;re unpinning a favored item.</source>
         <translation>你正在删除一个置顶项。</translation>
     </message>
@@ -805,12 +860,12 @@
         <translation>最多只能置顶 9 项。</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="378"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/MainViewList.qml" line="387"/>
         <source>Favored</source>
         <translation>置顶</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBar.qml" line="66"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBar.qml" line="68"/>
         <source>Paused</source>
         <translation>已停止</translation>
     </message>
@@ -819,22 +874,22 @@
         <translation type="vanished">已停止同步剪贴板数据。</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TitleBar.qml" line="76"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TitleBar.qml" line="78"/>
         <source>PinStack has paused monitoring the clipboard</source>
         <translation>已停止同步剪贴板数据</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TypeFilterBox.qml" line="61"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TypeFilterBox.qml" line="63"/>
         <source>Text</source>
         <translation>文本</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TypeFilterBox.qml" line="79"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TypeFilterBox.qml" line="81"/>
         <source>Image</source>
         <translation>图片</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/mainview/TypeFilterBox.qml" line="70"/>
+        <location filename="../../../../PinStack/assets/qml/mainview/TypeFilterBox.qml" line="72"/>
         <source>File</source>
         <translation>文件</translation>
     </message>
@@ -856,17 +911,17 @@
 <context>
     <name>SettingsWnd</name>
     <message>
-        <location filename="../../../../PinStack/assets/qml/main.qml" line="785"/>
+        <location filename="../../../../PinStack/assets/qml/main.qml" line="750"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="130"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="132"/>
         <source>General</source>
         <translation>常规</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="137"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="139"/>
         <source>Clipboard</source>
         <translation>剪贴板</translation>
     </message>
@@ -875,7 +930,7 @@
         <translation type="vanished">激活</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="186"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="188"/>
         <source>Restart</source>
         <translation>重启</translation>
     </message>
@@ -888,7 +943,7 @@
         <translation type="obsolete">取消</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="143"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd.qml" line="145"/>
         <source>Keyboard</source>
         <translation>快捷键</translation>
     </message>
@@ -900,27 +955,27 @@
 <context>
     <name>SettingsWnd4General</name>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="60"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="62"/>
         <source>Theme</source>
         <translation>主题</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="68"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="70"/>
         <source>Light</source>
         <translation>浅色</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="77"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="79"/>
         <source>Dark</source>
         <translation>深色</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="135"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="137"/>
         <source>Update automatically</source>
         <translation>自动检查更新</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="201"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="203"/>
         <source>Reset &amp;&amp; Restart</source>
         <translation>重置 &amp; 重启</translation>
     </message>
@@ -933,17 +988,17 @@
         <translation type="vanished">开机启动</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="162"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="164"/>
         <source>Show tray icon</source>
         <translation>显示托盘图标</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="178"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="180"/>
         <source>Reset</source>
         <translation>重置</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="195"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="197"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -960,12 +1015,12 @@
         <translation type="vanished">主题：</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="92"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="94"/>
         <source>Language</source>
         <translation>语言</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="145"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4General.qml" line="147"/>
         <source>Run on system startup</source>
         <translation>开机启动</translation>
     </message>
@@ -981,102 +1036,102 @@
 <context>
     <name>SettingsWnd4Keyboard</name>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="26"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="27"/>
         <source>Duplicate shortcut.</source>
         <translation>重复的快捷键。</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="58"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="59"/>
         <source>Show Clipboard</source>
         <translation>显示剪贴板</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="82"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="83"/>
         <source>Show Pin</source>
         <translation>显示 Pin 视图</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="188"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="192"/>
         <source>Show preview</source>
         <translation>显示预览</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="190"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="194"/>
         <source>Switch preview pos</source>
         <translation>切换预览位置</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="196"/>
-        <source>Control 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="198"/>
-        <source>Control 2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="200"/>
-        <source>Control 3</source>
-        <translation type="unfinished"></translation>
+        <source>Control 1</source>
+        <translation>控制 1</translation>
     </message>
     <message>
         <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="202"/>
-        <source>Control 4</source>
-        <translation type="unfinished"></translation>
+        <source>Control 2</source>
+        <translation>控制 2</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="214"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="204"/>
+        <source>Control 3</source>
+        <translation>控制 3</translation>
+    </message>
+    <message>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="206"/>
+        <source>Control 4</source>
+        <translation>控制 4</translation>
+    </message>
+    <message>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="218"/>
         <source>Switch view</source>
         <translation>切换视图</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="180"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="184"/>
         <source>Pin</source>
         <translation>Pin</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="182"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="186"/>
         <source>Paste</source>
         <translation>粘贴</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="212"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="216"/>
         <source>Activate item</source>
         <translation>激活列表项</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="208"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="212"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="210"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="214"/>
         <source>Delete all</source>
         <translation>删除全部</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="192"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="196"/>
         <source>Search</source>
         <translation>查找</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="227"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="231"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="206"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="210"/>
         <source>Locate</source>
         <translation>定位</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/KeySequenceEdit.qml" line="36"/>
+        <location filename="../../../../PinStack/assets/qml/settings/KeySequenceEdit.qml" line="39"/>
         <source>Modifier key required.</source>
         <translation>需要修饰键。</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/KeySequenceEdit.qml" line="93"/>
+        <location filename="../../../../PinStack/assets/qml/settings/KeySequenceEdit.qml" line="96"/>
         <source>Global shortcut</source>
         <translation>全局快捷键</translation>
     </message>
@@ -1085,7 +1140,7 @@
         <translation type="vanished">切换详情视图位置</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="229"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="233"/>
         <source>Show Settings</source>
         <translation>打开设置窗口</translation>
     </message>
@@ -1094,27 +1149,27 @@
         <translation type="vanished">显示详情视图</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="219"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="223"/>
         <source>Switch selection</source>
         <translation>切换列表项选择</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="223"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="227"/>
         <source>Switch item height</source>
         <translation>切换列表项高度</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="131"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="132"/>
         <source>Fn paste</source>
         <translation>Fn 粘贴</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="231"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="235"/>
         <source>Stay on top</source>
         <translation>置顶</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="109"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Keyboard.qml" line="110"/>
         <source>Pause</source>
         <translation>停止同步</translation>
     </message>
@@ -1182,7 +1237,7 @@
         <translation type="vanished">连接：</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/ItemHeightCtrl.qml" line="77"/>
+        <location filename="../../../../PinStack/assets/qml/settings/ItemHeightCtrl.qml" line="80"/>
         <source>Small</source>
         <translation>小</translation>
     </message>
@@ -1191,12 +1246,12 @@
         <translation type="vanished">正常</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/ItemHeightCtrl.qml" line="93"/>
+        <location filename="../../../../PinStack/assets/qml/settings/ItemHeightCtrl.qml" line="96"/>
         <source>Medium</source>
         <translation>中等</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/ItemHeightCtrl.qml" line="101"/>
+        <location filename="../../../../PinStack/assets/qml/settings/ItemHeightCtrl.qml" line="104"/>
         <source>Large</source>
         <translation>大</translation>
     </message>
@@ -1205,12 +1260,12 @@
         <translation type="vanished">隐藏快速粘贴视图：</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="70"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="72"/>
         <source>Item pasted</source>
         <translation>列表项被粘贴后</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="70"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="72"/>
         <source>Focus lost</source>
         <translation>失去焦点后</translation>
     </message>
@@ -1259,7 +1314,7 @@
         <translation type="vanished">列表项大小：</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/ItemHeightCtrl.qml" line="85"/>
+        <location filename="../../../../PinStack/assets/qml/settings/ItemHeightCtrl.qml" line="88"/>
         <source>Default</source>
         <translation>默认</translation>
     </message>
@@ -1268,7 +1323,7 @@
         <translation type="vanished">粘贴：</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="65"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="67"/>
         <source>Hide window when</source>
         <translation>隐藏窗口当</translation>
     </message>
@@ -1305,47 +1360,47 @@
         <translation type="obsolete">设置</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="95"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="97"/>
         <source>Detailed view</source>
         <translation>预览视图</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="107"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="109"/>
         <source>Left</source>
         <translation>左侧</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="110"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="112"/>
         <source>Right</source>
         <translation>右侧</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="113"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="115"/>
         <source>Bottom</source>
         <translation>下方</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="157"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="159"/>
         <source>List item height</source>
         <translation>列表项大小</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="173"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="175"/>
         <source>Plain</source>
         <translation>简单</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="189"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="191"/>
         <source>Custom</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="209"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="211"/>
         <source>Variant</source>
         <translation>多样</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="70"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="72"/>
         <source>Manually close</source>
         <translation>手动关闭</translation>
     </message>
@@ -1378,22 +1433,22 @@
         <translation type="vanished">剪贴板视图</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="261"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="263"/>
         <source>Backup</source>
         <translation>备份</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="266"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="268"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="283"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="285"/>
         <source>Import</source>
         <translation>导入</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="294"/>
+        <location filename="../../../../PinStack/assets/qml/settings/SettingsWnd4Stack.qml" line="296"/>
         <source>Data imported successfully.</source>
         <translation>导入数据成功。</translation>
     </message>
@@ -1401,52 +1456,52 @@
 <context>
     <name>UpdateWnd</name>
     <message>
-        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="16"/>
+        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="19"/>
         <source>Checking for updates</source>
         <translation>检查更新中</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="21"/>
+        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="24"/>
         <source>Failed to check for updates</source>
         <translation>检查更新失败 :(</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="27"/>
+        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="30"/>
         <source>You&apos;re up to date!</source>
         <translation>已是最新版本 :)</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="99"/>
+        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="102"/>
         <source>A new version is available!</source>
         <translation>新版本可用啦~</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="107"/>
+        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="110"/>
         <source>is now available (you have %1).</source>
         <translation>现在可用了（当前版本为 %1）。</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="109"/>
+        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="112"/>
         <source>Would you like to download it now?</source>
         <translation>是否现在下载？</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="153"/>
+        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="156"/>
         <source>Download</source>
         <translation>下载</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="165"/>
+        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="168"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/assets/qml/main.qml" line="794"/>
+        <location filename="../../../../PinStack/assets/qml/main.qml" line="759"/>
         <source>Software update</source>
         <translation>软件更新</translation>
     </message>
     <message>
-        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="153"/>
+        <location filename="../../../../PinStack/modules/updates/UpdateWnd.qml" line="156"/>
         <source>Quit</source>
         <translation>退出</translation>
     </message>
